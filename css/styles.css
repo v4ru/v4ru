@@ -8,4 +8,5 @@ a:hover{color:#000000;}
 .v4-site {margin:10px;padding:10px;text-align:center;}
 .v4-site a {text-decoration:none;}
 
-.abc_728x90 {margin:10px;padding:10px;}
+.abc-728x90 {margin:10px;padding:10px;}
+.abc-728x90 img {display: block;max-width: 100%;height: auto;}
