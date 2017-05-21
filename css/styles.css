@@ -3,6 +3,10 @@ a:visited{color:#000000;}
 a:active {color:#000000;}
 a:hover{color:#000000;}
 
+#section-header {}
+#section-01 {}
+#section-footer {margin-bottom:20px;}
+
 .v4-server {margin:10px;padding:10px;text-align:center;letter-spacing:3px;text-shadow:2px 2px 4px #cccccc;font-size:290%;font-weight:bold;}
 .v4-server a {text-decoration:none;}
 .v4-site {margin:10px;padding:10px;text-align:center;}
